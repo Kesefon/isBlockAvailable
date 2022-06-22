@@ -5,7 +5,7 @@
 
 
     
-isBlockAvailable(bitmap, addr)
+isBlockUnavailable(bitmap, addr)
  
 	swap
 	    jz  	push1	  	sub 
